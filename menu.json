@@ -1,0 +1,326 @@
+{
+  "baslangiclar": [
+    {
+      "name": "ACILI EKŞİLİ CİN CORBASI",
+      "desc": "",
+      "price": "₺90",
+      "img": ""
+    },
+    {
+      "name": "SEBZELİ CİN BÖREĞİ (2&nbspADET)",
+      "desc": "",
+      "price": "₺60",
+      "img": ""
+    },
+    {
+      "name": "PARMAK DİLİM PATATES",
+      "desc": "",
+      "price": "₺60",
+      "img": ""
+    },
+    {
+      "name": "SOĞAN HALKASI",
+      "desc": "",
+      "price": "₺45",
+      "img": ""
+    },
+    {
+      "name": "MISIR TEMPURA",
+      "desc": "",
+      "price": "₺140",
+      "img": ""
+    },
+    {
+      "name": "DİNAMİT KAREDES",
+      "desc": "",
+      "price": "₺170",
+      "img": ""
+    },
+    {
+      "name": "KARİDES SHOT (1&nbspADET)",
+      "desc": "",
+      "price": "₺45",
+      "img": ""
+    },
+    {
+      "name": "KARİDES SHOT (3&nbspADET)",
+      "desc": "",
+      "price": "₺130",
+      "img": ""
+    },
+    {
+      "name": "TİRİYAKİ SOSLU SOMON",
+      "desc": "",
+      "price": "₺240",
+      "img": ""
+    },
+    {
+      "name": "COBO DELİCİOUS",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "EDAMAME (TI ACI)",
+      "desc": "",
+      "price": "₺90",
+      "img": ""
+    },
+    {
+      "name": "EDAMAME (ACILI)",
+      "desc": "",
+      "price": "₺90",
+      "img": ""
+    },
+    {
+      "name": "KARİDES CİPSİ",
+      "desc": "",
+      "price": "₺50",
+      "img": ""
+    },
+    {
+      "name": "KARİDES TEMPURA (6&nbspADET)",
+      "desc": "",
+      "price": "₺160",
+      "img": ""
+    },
+    {
+      "name": "KARİDES TOPU (7&nbspADET)",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "KİMCHİ",
+      "desc": "",
+      "price": "₺85",
+      "img": ""
+    }
+  ],
+  "noodleler": [
+    {
+      "name": "TAVUKLU NOODLE",
+      "desc": "Tavuk,beyaz lahana,havuç,kırmızı yeşil biber",
+      "price": "₺135",
+      "img": ""
+    },
+    {
+      "name": "İ NOODLE",
+      "desc": "et,beyaz lahana,havuç,kırmızı yeşil biber",
+      "price": "₺150",
+      "img": ""
+    },
+    {
+      "name": "SEBZELİ NOODLE",
+      "desc": "beyaz lahana,havuç,kırmızı yeşil biber",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "KARİDESLİ NOODLE",
+      "desc": "Karides,beyaz lahana,havuç,kırmızı yeşil biber",
+      "price": "₺160",
+      "img": ""
+    },
+    {
+      "name": "CM NOODLE",
+      "desc": "Et,karides,beyaz lahana,havuç,kırmızı yeşil biber",
+      "price": "₺165",
+      "img": ""
+    },
+    {
+      "name": "VEJETERYAN NOODLE",
+      "desc": "beyaz lahana,havuç,kırmızı yeşil biber,brokoli,mantar",
+      "price": "₺120",
+      "img": ""
+    },
+    {
+      "name": "EGZOTİK NOODLE",
+      "desc": "beyaz lahana,havuç,kırmızı yeşil biber,brokoli,ananas",
+      "price": "₺120",
+      "img": ""
+    },
+    {
+      "name": "TON BALIKLI NOODLE",
+      "desc": "tonbalığı,beyaz lahana,havuç,kırmızı yeşil biber",
+      "price": "₺145",
+      "img": ""
+    },
+    {
+      "name": "SEBZELİ NOODLE UZERİ GNERAL TSO",
+      "desc": "",
+      "price": "₺170",
+      "img": ""
+    },
+    {
+      "name": "SEBZELİ NOODLE ÜZERİ TI EKŞİ SOSLU TAVUK",
+      "desc": "",
+      "price": "₺170",
+      "img": ""
+    }
+  ],
+  "noodle_menueler": [
+    {
+      "name": "TAVUKLU NOODLE(TI İÇEÇEK)",
+      "desc": "",
+      "price": "₺190",
+      "img": ""
+    },
+    {
+      "name": "İ NOODLE (TI İÇEÇEK)",
+      "desc": "",
+      "price": "₺210",
+      "img": ""
+    },
+    {
+      "name": "SEBZELİ NOODLE (TI İÇEÇEK)",
+      "desc": "",
+      "price": "₺180",
+      "img": ""
+    },
+    {
+      "name": "KARİDESLİ NOODLE (TI İÇEÇEK)",
+      "desc": "",
+      "price": "₺220",
+      "img": ""
+    },
+    {
+      "name": "CM NOODLE (TI İÇEÇEK)",
+      "desc": "",
+      "price": "₺230",
+      "img": ""
+    },
+    {
+      "name": "VEJETERYAN NOODLE (TI İÇEÇEK)",
+      "desc": "",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "EGZOTİK NOODLE (TI İÇEÇEK)",
+      "desc": "",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "TON BALIKLI NOODLE(TI İÇEÇEK)",
+      "desc": "",
+      "price": "₺200",
+      "img": ""
+    }
+  ],
+  "noodle_mix_menueler": [
+    {
+      "name": "TAVUKLU NOODLE(SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "desc": "",
+      "price": "₺195",
+      "img": ""
+    },
+    {
+      "name": "İ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "desc": "",
+      "price": "₺220",
+      "img": ""
+    },
+    {
+      "name": "SEBZELİ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "desc": "",
+      "price": "₺180",
+      "img": ""
+    },
+    {
+      "name": "KARİDESLİ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "desc": "",
+      "price": "₺220",
+      "img": ""
+    },
+    {
+      "name": "CM NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "desc": "",
+      "price": "₺230",
+      "img": ""
+    },
+    {
+      "name": "VEJETERYAN NOODLE(SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "desc": "",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "EGZOTİK NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "desc": "",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "TON BALIKLI NOODLE(SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "desc": "",
+      "price": "₺200",
+      "img": ""
+    }
+  ],
+  "ramenler": [
+    {
+      "name": "TAVUKLU RAMEN",
+      "desc": "",
+      "price": "₺120",
+      "img": ""
+    },
+    {
+      "name": "İ RAMEN",
+      "desc": "",
+      "price": "₺145",
+      "img": ""
+    },
+    {
+      "name": "KARİDESLİ RAMEN",
+      "desc": "",
+      "price": "₺190",
+      "img": ""
+    },
+    {
+      "name": "SEBZELİ RAMEN",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    }
+  ],
+  "mantilar": [
+    {
+      "name": "ÇITIR MANTI (3&nbspADET)",
+      "desc": "",
+      "price": "₺120",
+      "img": ""
+    },
+    {
+      "name": "ÇITIR MANTI (4&nbspADET)",
+      "desc": "",
+      "price": "₺140",
+      "img": ""
+    },
+    {
+      "name": "BUHARDA ÇİN MANTISI (3&nbspADET)",
+      "desc": "",
+      "price": "₺120",
+      "img": ""
+    },
+    {
+      "name": "BUHARDA ÇİN MANTISI (4&nbspADET)",
+      "desc": "",
+      "price": "₺140",
+      "img": ""
+    },
+    {
+      "name": "GYOZA (3&nbspADET)",
+      "desc": "",
+      "price": "₺125",
+      "img": ""
+    },
+    {
+      "name": "GYOZA (4&nbspADET)",
+      "desc": "",
+      "price": "₺145",
+      "img": ""
+    }
+  ]
+}
