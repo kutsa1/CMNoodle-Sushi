@@ -23,9 +23,7 @@ fetch('./menu.json')
             subMenu.setAttribute('data-aos', 'fade-up')
             data[dataKey].forEach(i => {
                 const item = `<div class="item row align-items-center">
-                        <div class="col-sm-3">
-                            <img class="product-img" src="./img/pizza-1.png" alt="${i.name}">
-                        </div>
+                       
                         <div class="details col-sm-9">
                             <div class="item__header">
                                 <span style="font-family: sans-serif" class="item__title">${i.name}</span>
@@ -40,6 +38,10 @@ fetch('./menu.json')
                 j++;
             })
         }
+        //26.satıra menu resmi için eklenecek
+        // <div class="col-sm-3">
+        //<img class="product-img" src="./img/pizza-1.png" alt="${i.name}">
+        //</div>
 
         //food menu  tabs
         const buttonsX = document.querySelectorAll('.button');
