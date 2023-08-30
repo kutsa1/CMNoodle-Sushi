@@ -7114,6 +7114,7 @@ a.text-beige:hover, a.text-beige:focus {
     display: flex;
     align-items: baseline; }
   .item__title {
+    color: #be8040;
     font-size: 20px;
     font-weight: 400;
     margin: 0; }
@@ -7122,6 +7123,7 @@ a.text-beige:hover, a.text-beige:focus {
     border-bottom: 1px dashed #aaa;
     margin: 0 15px; }
   .item__price {
+    color: #be8040;
     font-size: 25px;
     font-weight: 400; }
 
