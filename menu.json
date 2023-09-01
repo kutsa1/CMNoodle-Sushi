@@ -1,39 +1,57 @@
 {
-  "baslangiclar": [
+  "başlangıçlar": [
     {
-      "name": "ACILI EKŞİLİ CİN CORBASI",
+      "name": "ACILI EKŞİLİ ÇİN CORBASI",
       "desc": "",
       "price": "₺90",
       "img": ""
     },
     {
-      "name": "SEBZELİ CİN BÖREĞİ (2&nbspADET)",
+      "name": "SEBZELİ ÇİN BÖREĞİ (2&nbspADET)",
       "desc": "",
       "price": "₺60",
       "img": ""
     },
     {
-      "name": "PARMAK DİLİM PATATES",
+      "name": "ÇITIR ÇİN MANTISI (3&nbspADET)",
       "desc": "",
-      "price": "₺60",
+      "price": "₺120",
       "img": ""
     },
     {
-      "name": "SOĞAN HALKASI",
-      "desc": "",
-      "price": "₺45",
-      "img": ""
-    },
-    {
-      "name": "MISIR TEMPURA",
+      "name": "ÇITIR ÇİN MANTISI (4&nbspADET)",
       "desc": "",
       "price": "₺140",
       "img": ""
     },
     {
-      "name": "DİNAMİT KAREDES",
+      "name": "BUHARDA ÇİN MANTISI (3&nbspADET)",
       "desc": "",
-      "price": "₺170",
+      "price": "₺120",
+      "img": ""
+    },
+    {
+      "name": "BUHARDA ÇİN MANTISI (4&nbspADET)",
+      "desc": "",
+      "price": "₺140",
+      "img": ""
+    },
+    {
+      "name": "EDAMAME (ACILI)",
+      "desc": "",
+      "price": "₺90",
+      "img": ""
+    },
+    {
+      "name": "EDAMAME (TATLI&nbspACI)",
+      "desc": "",
+      "price": "₺90",
+      "img": ""
+    },
+    {
+      "name": "KİMCHİ",
+      "desc": "",
+      "price": "₺85",
       "img": ""
     },
     {
@@ -49,36 +67,6 @@
       "img": ""
     },
     {
-      "name": "TİRİYAKİ SOSLU SOMON",
-      "desc": "",
-      "price": "₺240",
-      "img": ""
-    },
-    {
-      "name": "COBO DELİCİOUS",
-      "desc": "",
-      "price": "₺110",
-      "img": ""
-    },
-    {
-      "name": "EDAMAME (TI ACI)",
-      "desc": "",
-      "price": "₺90",
-      "img": ""
-    },
-    {
-      "name": "EDAMAME (ACILI)",
-      "desc": "",
-      "price": "₺90",
-      "img": ""
-    },
-    {
-      "name": "KARİDES CİPSİ",
-      "desc": "",
-      "price": "₺50",
-      "img": ""
-    },
-    {
       "name": "KARİDES TEMPURA (6&nbspADET)",
       "desc": "",
       "price": "₺160",
@@ -91,13 +79,49 @@
       "img": ""
     },
     {
-      "name": "KİMCHİ",
+      "name": "KARİDES CİPSİ",
       "desc": "",
-      "price": "₺85",
+      "price": "₺50",
+      "img": ""
+    },
+    {
+      "name": "DİNAMİT KARİDES",
+      "desc": "",
+      "price": "₺170",
+      "img": ""
+    },
+    {
+      "name": "TİRİYAKİ SOSLU SOMON",
+      "desc": "",
+      "price": "₺240",
+      "img": ""
+    },
+    {
+      "name": "PARMAK DİLİM PATATES",
+      "desc": "",
+      "price": "₺60",
+      "img": ""
+    },
+    {
+      "name": "SOĞAN HALKASI",
+      "desc": "",
+      "price": "₺45",
+      "img": ""
+    },
+    {
+      "name": "COMBO DELİCİOUS",
+      "desc": "",
+      "price": "₺110",
       "img": ""
     }
   ],
-  "noodleler": [
+  "noodle": [
+    {
+      "name": "SEBZELİ NOODLE",
+      "desc": "Beyaz lahana,havuç,kırmızı yeşil biber",
+      "price": "₺110",
+      "img": ""
+    },
     {
       "name": "TAVUKLU NOODLE",
       "desc": "Tavuk,beyaz lahana,havuç,kırmızı yeşil biber",
@@ -105,17 +129,12 @@
       "img": ""
     },
     {
-      "name": "İ NOODLE",
-      "desc": "et,beyaz lahana,havuç,kırmızı yeşil biber",
+      "name": "ETLİ NOODLE",
+      "desc": "Et,beyaz lahana,havuç,kırmızı yeşil biber",
       "price": "₺150",
       "img": ""
     },
-    {
-      "name": "SEBZELİ NOODLE",
-      "desc": "beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺110",
-      "img": ""
-    },
+    
     {
       "name": "KARİDESLİ NOODLE",
       "desc": "Karides,beyaz lahana,havuç,kırmızı yeşil biber",
@@ -123,93 +142,93 @@
       "img": ""
     },
     {
-      "name": "CM NOODLE",
-      "desc": "Et,karides,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺165",
-      "img": ""
-    },
-    {
-      "name": "VEJETERYAN NOODLE",
-      "desc": "beyaz lahana,havuç,kırmızı yeşil biber,brokoli,mantar",
+      "name": "EGZOTİK NOODLE",
+      "desc": "Beyaz lahana,havuç,kırmızı yeşil biber, brokoli, ananas",
       "price": "₺120",
       "img": ""
     },
     {
-      "name": "EGZOTİK NOODLE",
-      "desc": "beyaz lahana,havuç,kırmızı yeşil biber,brokoli,ananas",
+      "name": "VEJETERYAN NOODLE",
+      "desc": "Beyaz lahana,havuç,kırmızı yeşil biber,brokoli,mantar",
       "price": "₺120",
       "img": ""
     },
     {
       "name": "TON BALIKLI NOODLE",
-      "desc": "tonbalığı,beyaz lahana,havuç,kırmızı yeşil biber",
+      "desc": "Tonbalığı,beyaz lahana,havuç,kırmızı yeşil biber",
       "price": "₺145",
       "img": ""
     },
     {
-      "name": "SEBZELİ NOODLE UZERİ GNERAL TSO",
+      "name": "CM NOODLE",
+      "desc": "Et, karides, beyaz lahana, havuç, kırmızı yeşil biber",
+      "price": "₺165",
+      "img": ""
+    },
+    {
+      "name": "SEBZELİ NOODLE UZERİ GENERAL TSO",
       "desc": "",
       "price": "₺170",
       "img": ""
     },
     {
-      "name": "SEBZELİ NOODLE ÜZERİ TI EKŞİ SOSLU TAVUK",
+      "name": "SEBZELİ NOODLE ÜZERİ TATLI EKŞİ SOSLU TAVUK",
       "desc": "",
       "price": "₺170",
       "img": ""
     }
   ],
-  "noodle_menueler": [
+  "noodle menü": [
     {
-      "name": "TAVUKLU NOODLE(TI İÇEÇEK)",
+      "name": "TAVUKLU NOODLE(TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺190",
       "img": ""
     },
     {
-      "name": "İ NOODLE (TI İÇEÇEK)",
+      "name": "ETLİ NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺210",
       "img": ""
     },
     {
-      "name": "SEBZELİ NOODLE (TI İÇEÇEK)",
+      "name": "SEBZELİ NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺180",
       "img": ""
     },
     {
-      "name": "KARİDESLİ NOODLE (TI İÇEÇEK)",
+      "name": "KARİDESLİ NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺220",
       "img": ""
     },
     {
-      "name": "CM NOODLE (TI İÇEÇEK)",
+      "name": "CM NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺230",
       "img": ""
     },
     {
-      "name": "VEJETERYAN NOODLE (TI İÇEÇEK)",
+      "name": "VEJETERYAN NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺185",
       "img": ""
     },
     {
-      "name": "EGZOTİK NOODLE (TI İÇEÇEK)",
+      "name": "EGZOTİK NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺185",
       "img": ""
     },
     {
-      "name": "TON BALIKLI NOODLE(TI İÇEÇEK)",
+      "name": "TON BALIKLI NOODLE(TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺200",
       "img": ""
     }
   ],
-  "noodle_mix_menueler": [
+  "noodle mix menü": [
     {
       "name": "TAVUKLU NOODLE(SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
       "desc": "",
@@ -217,7 +236,7 @@
       "img": ""
     },
     {
-      "name": "İ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "name": "ETLİ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
       "desc": "",
       "price": "₺220",
       "img": ""
@@ -267,7 +286,7 @@
       "img": ""
     },
     {
-      "name": "İ RAMEN",
+      "name": "ETLİ RAMEN",
       "desc": "",
       "price": "₺145",
       "img": ""
@@ -285,41 +304,748 @@
       "img": ""
     }
   ],
-  "mantilar": [
+  "sushi 8 parça": [
+    
     {
-      "name": "ÇITIR MANTI (3&nbspADET)",
+      "name": "CALIFORNIA ROLL",
+      "desc": "Mayonez, yengeç, salatalık, avokado üzeri tobıko",
+      "price": "₺150",
+      "img": ""
+    },
+    {
+      "name": "SOMON TEMPURA ROLL (PİŞMİŞ)",
+      "desc": "Tempura somon, krem peynir, salatalık, avokado",
+      "price": "₺200",
+      "img": ""
+    },
+    {
+      "name": "İSTANBUL ROLL (PİŞMİŞ)",
+      "desc": "Tempura somon krem peynir, salatalık, üzeri avokado",
+      "price": "₺195",
+      "img": ""
+    },
+    {
+      "name": "EBİ TEN CRİSPY (PİŞMİŞ)",
+      "desc": "Tempura karides, krem peynir, salatalık, avokado, üzeri susam çıtır patates",
+      "price": "₺195",
+      "img": ""
+    },
+    {
+      "name": "EBİ TEMPURA ROLL (PİŞMİŞ)",
+      "desc": "Tempura karides krem peynir, üzeri çıtır ekmek",
+      "price": "₺190",
+      "img": ""
+    },
+    {
+      "name": "DRAGON ROLL",
+      "desc": "Yengeç, krempeynir, salatalık, avokado, yılan balığı",
+      "price": "₺245",
+      "img": ""
+    },
+    {
+      "name": "MAGURO ROLL",
+      "desc": "Krem peynir, avokado, salatalık, ton balığı",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "PHİLEDELPHİA SASEME ROLL",
+      "desc": "Somon, krem peynir, salatalık, susam",
+      "price": "₺140",
+      "img": ""
+    },
+    {
+      "name": "PHİLEDELPHİA ROLL",
+      "desc": "Krem peynir, salatalık, somon",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "RAİNBOW ROLL",
+      "desc": "Krem peynir, yengeç, salatalık, üzeri somon, avokado, levrek, ton balığı",
+      "price": "₺220",
+      "img": ""
+    },
+    {
+      "name": "ROCK'N ROLL",
+      "desc": "Somon, levrek, yeşil soğan, yengeç, krem peynir, salatalık, havyar",
+      "price": "₺200",
+      "img": ""
+    },
+    {
+      "name": "SASEME CALIFORNIA ROLL",
+      "desc": "Somon, krem peynir, avokado, salatalık, susam",
+      "price": "₺140",
+      "img": ""
+    },
+    {
+      "name": "CHİCKEN TERİYAKİ ROLL (PİŞMİŞ)",
+      "desc": "Tempura tavuk, avokado, salatalık, susam, teriyaki sos, patates",
+      "price": "₺140",
+      "img": ""
+    },
+    {
+      "name": "BOSTAN AVOCADO ROLL",
+      "desc": "Somon, salatalık, labne,avokado, susam kaplı",
+      "price": "₺155",
+      "img": ""
+    },
+    {
+      "name": "CANADİAN ROLL",
+      "desc": "Yengeç, avokado, salatalık, dışı; somon, susam kaplı",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "CATERPİLLER ROLL",
+      "desc": "Surimi, salatalık, krem peynir, avokado",
+      "price": "₺150",
+      "img": ""
+   },
+    {
+      "name": "CM CALIFORNIA ROLL (6 ADET PİŞMİŞ)",
+      "desc": "Yengeç, krem peynir, salatalık, avokado, masago, tempura",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "CM ROLL",
+      "desc": "Somon, surimi, salatalık, avokado, kapya biber, masago",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "EBİ CALIFORNIA ROLL",
+      "desc": "Karides, avokado, salatalık, krem peynir, masago",
+      "price": "₺155",
+      "img": ""
+    },
+    {
+      "name": "FUEGO ROLL",
+      "desc": "Yılan balığı, avokado, salatalık, susam, teriyaki sos",
+      "price": "₺230",
+      "img": ""
+    },
+    {
+      "name": "HATTORİ ROLL (PİŞMİŞ)",
+      "desc": "Kızarmış somon, avokado, mayonez, marul, çıtır soğan, cips",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "TOKYO ROLL (PİŞMİŞ)",
+      "desc": "Izgara somon, krem peynir, avokado, dışı; çıtır patates",
+      "price": "₺185",
+      "img": ""
+    },
+    {
+      "name": "OMG ROLL",
+      "desc": "Karides, somon, krem peynir, dışı; susam kaplı",
+      "price": "₺195",
+      "img": ""
+    },
+    {
+      "name": "PİKA UNAGİ ROLL",
+      "desc": "Tempura karides, yılan balığı, krem peynir, salatalık, avokado, susam",
+      "price": "₺235",
+      "img": ""
+    },
+    {
+      "name": "ROSE ROLL",
+      "desc": "Pancar soslu pirinç tempura, karides, avokado, salatalık, susam",
+      "price": "₺195",
+      "img": ""
+    },
+    {
+      "name": "SAKE CALIFORNIA ROLL",
+      "desc": "Somon, salatalık, avokado, mayonez, masago",
+      "price": "₺160",
+      "img": ""
+    },
+    {
+      "name": "SASEME ROLL",
+      "desc": "İçi karides, salatalık, avokado, susam",
+      "price": "₺160",
+      "img": ""
+    },
+    {
+      "name": "SPİCY SALMON  ROLL",
+      "desc": "Somon, krem peynir, salatalık, avokado, susam",
+      "price": "₺174",
+      "img": ""
+    },
+    {
+      "name": "SPİCY SHİRİMP ROLL (PİŞMİŞ)",
+      "desc": "Tempura karides, krem peynir, avokado, susam, patates",
+      "price": "₺180",
+      "img": ""
+    },
+    {
+      "name": "SPİCY TUNA ROLL",
+      "desc": "Ton balığı, avokado, salatalık, krem peynir, susam, patates",
+      "price": "₺175",
+      "img": ""
+    },
+    {
+      "name": "VEGAN ROLL",
+      "desc": "Salatalık, marul, avokado, mango, susam",
+      "price": "₺120",
+      "img": ""
+    },
+    {
+      "name": "VEJETERYAN ROLL",
+      "desc": "Salatalık, avokado, kapya biber, havuç, avokado",
+      "price": "₺175",
+      "img": ""
+    }
+  ],
+  "sushi set menüler": [
+    {
+      "name": "ALL STAR MENÜ (30 ADET)",
+      "desc": "Ebi Ten Crispy Roll + California + Ebi Tempura Maki + Somon Tempura Roll",
+      "price": "₺640",
+      "img": ""  
+    },
+    {
+      "name": "CALIFORNIA MIX MENU TAVUKLU NOODLE",
+      "desc": "",
+      "price": "₺290",
+      "img": ""  
+    },
+    {
+      "name": "CLASSİC SET MENU (28 ADET)",
+      "desc": "Sesame Roll + Philadelphia + Kani Maki + Sake Maki",
+      "price": "₺560",
+      "img": ""  
+    },
+    {
+      "name": "SUSHİ MİX (20 ADET)",
+      "desc": "California Roll (8 adet) + Sake Maki (6 adet) + Sake Nigiri (2 adet) + Avokado Nigiri (2 adet) + Çıtır Çin Mantısı (2 Adet)",
+      "price": "₺410",
+      "img": ""  
+    },
+    {
+      "name": "SUSHİ SET (30 ADET)",
+      "desc": "Tokyo Roll (8 Adet) + Ebi Tempura (8 Adet) + Hattori Roll (8 Adet) + Spicy Kani Maki (6 Adet)",
+      "price": "₺590",
+      "img": ""  
+    },
+    {
+      "name": "VEGAN SET MENÜ (30 ADET)",
+      "desc": "Vegan Roll + Kappa Maki + Avokado Maki",
+      "price": "₺330",
+      "img": ""  
+    },
+    {
+      "name": "VEJETERYAN SET MENÜ",
+      "desc": "Normal Boy Vejetaryen Noodle + Vejetaryen Roll + Kutu İçecek",
+      "price": "₺265",
+      "img": ""  
+    },
+    {
+      "name": "VEJETERYAN SET MENÜ (20 ADET)",
+      "desc": "Vejetaryen Roll (8 Adet) + Avokado Maki (6 Adet) + Kappa Maki (6 Adet)",
+      "price": "₺260",
+      "img": ""  
+    },
+    {
+      "name": "CALİFORNİA MENÜ",
+      "desc": "",
+      "price": "₺185",
+      "img": ""  
+    },
+    {
+      "name": "CALİFORNİA MENÜ SEBZELİ NOODLE",
+      "desc": "",
+      "price": "₺290",
+      "img": ""  
+    },
+    {
+      "name": "CALİFORNİA SET MENÜ (24 ADET)",
+      "desc": "Ebi California + Sake California + California Roll",
+      "price": "₺440",
+      "img": ""  
+    },
+    {
+      "name": "MAKİ SET MENÜ (18 ADET)",
+      "desc": "",
+      "price": "₺295",
+      "img": ""  
+    },
+    {
+      "name": "MAKİ SET MENÜ (24 ADET)",
+      "desc": "Saki Maki (6 Adet) + Kani Maki (6 Adet) + Kappa Maki (6 Adet) + Avokado Maki (6 Adet)",
+      "price": "₺360",
+      "img": ""  
+    },
+    {
+      "name": "SUSHİ SET MENÜ (20 ADET)",
+      "desc": "California Roll (8 Adet) + Sake Maki (6 Adet) + Kappa Maki (6 Adet)",
+      "price": "₺340",
+      "img": ""  
+    }
+  ],
+  "maki 6 parça" :[
+    {
+      "name": "KAPPA MAKİ",
+      "desc": "",
+      "price": "₺95",
+      "img": ""
+    },
+    {
+      "name": "SOMON TEMPURA MAKİ",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "AVOKADO MAKİ",
+      "desc": "",
+      "price": "₺95",
+      "img": ""
+    },
+    {
+      "name": "CHİCKEN TİRİYAKİ MAKİ",
+      "desc": "",
+      "price": "₺115",
+      "img": ""
+    },
+    {
+      "name": "EBİ AVOKADO MAKİ",
       "desc": "",
       "price": "₺120",
       "img": ""
     },
     {
-      "name": "ÇITIR MANTI (4&nbspADET)",
-      "desc": "",
-      "price": "₺140",
-      "img": ""
-    },
-    {
-      "name": "BUHARDA ÇİN MANTISI (3&nbspADET)",
+      "name": "EBİ TEMPURA MAKİ",
       "desc": "",
       "price": "₺120",
       "img": ""
     },
     {
-      "name": "BUHARDA ÇİN MANTISI (4&nbspADET)",
+      "name": "KANİ AVOKADO MAKİ",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "KANİ MAKİ",
+      "desc": "",
+      "price": "₺105",
+      "img": ""
+    },
+    {
+      "name": "SAKE AVOKADO MAKİ",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "SAKE MAKİ",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "SPİCY KANİ MAKİ",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "SUZİKİ TEMPURA MAKİ",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "TEKKA MAKİ",
+      "desc": "",
+      "price": "₺120",
+      "img": ""
+    },
+    {
+      "name": "UNAGİ MAKİ",
+      "desc": "",
+      "price": "₺160",
+      "img": ""
+    }
+  ],   
+  "sashimi 5 parça": [
+    {
+      "name": "EBİ SASHIMI",
       "desc": "",
       "price": "₺140",
       "img": ""
     },
     {
-      "name": "GYOZA (3&nbspADET)",
+      "name": "MAGURO SASHIMI",
       "desc": "",
-      "price": "₺125",
+      "price": "₺120",
       "img": ""
     },
     {
-      "name": "GYOZA (4&nbspADET)",
+      "name": "SALMON SASHIMI",
+      "desc": "",
+      "price": "₺100",
+      "img": ""
+    },
+    {
+      "name": "SUZİKİ SASHIMI",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    { 
+      "name": "UNAGİ SASHIMI",
+      "desc": "",
+      "price": "₺240",
+      "img": ""
+   }
+  ],
+  "NİGİRİ": [
+    {
+      "name": "AVACODO NİGİRİ (1 ADET)",
+      "desc": "",
+      "price": "₺20",
+      "img": ""
+    },
+    {
+      "name": "AVACODO NİGİRİ (3 ADET)",
+      "desc": "",
+      "price": "₺55",
+      "img": ""
+    },
+    {
+      "name": "TOBİKO NİGİRİ (1 ADET)",
+      "desc": "",
+      "price": "₺40",
+      "img": ""
+    },
+    {
+      "name": "TOBİKO NİGİRİ (3 ADET)",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "EBİ NİGİRİ (1 ADET)",
+      "desc": "",
+      "price": "₺40",
+      "img": ""
+    },
+    {
+      "name": "EBİ NİGİRİ(2 ADET)",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "KANİ NİGİRİ (1 ADET)",
+      "desc": "",
+      "price": "₺55",
+      "img": ""
+    },
+    {
+      "name": "KANİ NİGİRİ (3 ADET)",
+      "desc": "",
+      "price": "₺95",
+      "img": ""
+    },
+    {
+      "name": "NİGİRİ MİX (6 ADET)",
+      "desc": "",
+      "price": "₺140",
+      "img": ""
+    },
+    {
+      "name": "SAKE NİGİRİ (1 ADET)",
+      "desc": "",
+      "price": "₺45",
+      "img": ""
+  },
+  {
+      "name": "SAKE NİGİRİ (3 ADET)",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "SUZİKİ NİGİRİ (1 ADET)",
+      "desc": "",
+      "price": "₺25",
+      "img": ""
+    },
+    {
+      "name": "SUZİKİ NİGİRİ (3 ADET)",
+      "desc": "",
+      "price": "₺55",
+      "img": ""
+    },
+    {
+      "name": "TUNA NİGİRİ ( 1 ADET)",
+      "desc": "",
+      "price": "₺30",
+      "img": ""
+    },
+    {
+      "name": "TUNA NİGİRİ( 3 ADET)",
+      "desc": "",
+      "price": "₺80",
+      "img": ""
+    },
+    {
+      "name": "UNAGİ NİGİRİ (1 ADET)",
+      "desc": "",
+      "price": "₺60",
+      "img": ""
+    },
+    {
+      "name": "UNAGİ NİGİRİ (3 ADET)",
+      "desc": "",
+      "price": "₺160",
+      "img": ""
+    }
+  ],
+  "POKE BOWL": [
+    {
+      "name": "CALİFORNİA POKE BOWL",
+      "desc": "",
+      "price": "₺190",
+      "img": ""
+    },
+    {
+      "name": "EGZOTİK POKE BOWL",
+      "desc": "",
+      "price": "₺220",
+      "img": ""
+    },
+    {
+      "name": "KANİ POKE BOWL",
+      "desc": "",
+      "price": "₺180",
+      "img": ""
+    },
+    {
+      "name": "PHİLEDELPHİA POKE BOWL",
+      "desc": "",
+      "price": "₺210",
+      "img": ""
+    },
+    {
+      "name": "VEGAN POKE BOWL",
+      "desc": "",
+      "price": "₺160",
+      "img": ""
+    }
+  ],
+  "PİLAV" : [
+    {
+      "name": "TAVUKLU PİLAV",
+      "desc": "",
+      "price": "₺105",
+      "img": ""
+    },
+    {
+      "name": "ETLİ PİLAV",
+      "desc": "",
+      "price": "₺120",
+      "img": ""
+    },
+    {
+      "name": "KARİDESLİ PİLAV",
+      "desc": "",
+      "price": "₺140",
+      "img": ""
+    },
+    {
+      "name": "SEBZELİ PİLAV",
+      "desc": "",
+      "price": "₺90",
+      "img": ""
+    }
+  ],
+  "SOTE" : [
+    {
+      "name": "MOGOL USULÜ SOTE (ET)",
+      "desc": "",
+      "price": "₺160",
+      "img": ""
+    },
+    {
+      "name": "OCEAN SOTE (KARİDES)",
+      "desc": "",
+      "price": "₺170",
+      "img": ""
+    },
+    {
+      "name": "TAVUK SOTE",
       "desc": "",
       "price": "₺145",
+      "img": ""
+    },
+    {
+      "name": "VEJETERYAN SOTE",
+      "desc": "",
+      "price": "₺130",
+      "img": ""
+    }
+  ],
+  "TAVUK" :[
+    {
+      "name": "BALLI SUSAMLI TAVUK",
+      "desc": "",
+      "price": "₺160",
+      "img": ""
+    },
+    {
+      "name": "ÇITIR TAVUK",
+      "desc": "",
+      "price": "₺110",
+      "img": ""
+    },
+    {
+      "name": "GENERAL TSO",
+      "desc": "",
+      "price": "₺165",
+      "img": ""
+    },
+    {
+      "name": "SUSAMLI TAVUK",
+      "desc": "",
+      "price": "₺100",
+      "img": ""
+    },
+    {
+      "name": "TATLI EKŞİ SOSLU TAVUK",
+      "desc": "",
+      "price": "₺160",
+      "img": ""
+    },
+    {
+      "name": "TİRİYAKİ SOSLU TAVUK",
+      "desc": "",
+      "price": "₺165",
+      "img": ""
+    }
+  ],
+  "EKSTRA MALZEMELER": [
+    {
+      "name": "TAVUK",
+      "desc": "",
+      "price": "₺40",
+      "img": ""
+    },
+    {
+      "name": "ET",
+      "desc": "",
+      "price": "₺50",
+      "img": ""
+    },
+    {
+      "name": "KARİDES",
+      "desc": "",
+      "price": "₺60",
+      "img": ""
+    },
+    {
+      "name": "TON BALIĞI",
+      "desc": "",
+      "price": "₺55",
+      "img": ""
+    },
+    {
+      "name": "BROKOLİ",
+      "desc": "",
+      "price": "₺12",
+      "img": ""
+    },
+    {
+      "name": "ANANAS",
+      "desc": "",
+      "price": "₺12",
+      "img": ""
+   },
+    {
+      "name": "MANTAR",
+      "desc": "",
+      "price": "₺12",
+      "img": ""
+    },
+    {
+      "name": "SOYA FİLİZİ",
+      "desc": "",
+      "price": "₺12",
+      "img": ""
+   },
+   {
+      "name": "YUMURTA",
+      "desc": "",
+      "price": "₺12",
+      "img": ""
+   },
+    {
+      "name": "MISIR",
+      "desc": "",
+      "price": "₺12",
+      "img": ""
+   },
+   {
+      "name": "SEBZE",
+      "desc": "",
+      "price": "₺15",
+      "img": ""
+    }
+  ],
+  "SICAK İÇECEKLER" : [
+    {
+      "name": "ÇAY",
+      "desc": "",
+      "price": "₺15",
+      "img": ""
+   },
+    {
+      "name": "FİNCAN ÇAY",
+      "desc": "",
+      "price": "₺20",
+      "img": ""
+    },
+    {
+      "name": "TÜRK KAHVESİ",
+      "desc": "",
+      "price": "₺45",
+      "img": ""
+    }
+  ],
+  "SOĞUK İÇECEKLER" : [
+    {
+      "name": "COCA COLA",
+      "desc": "",
+      "price": "₺36",
+      "img": ""
+    },
+    {
+      "name": "COCA COLA ZERO",
+      "desc": "",
+      "price": "₺36",
+      "img": ""
+    },
+    {
+      "name": "FUSE TEA ŞEFTALİ",
+      "desc": "",
+      "price": "₺36",
+      "img": ""
+    },
+    {
+      "name": "FUSE TEA LİMON",
+      "desc": "",
+      "price": "₺36",
+      "img": ""
+    },
+    {
+      "name": "SPRİTE",
+      "desc": "",
+      "price": "₺36",
       "img": ""
     }
   ]
