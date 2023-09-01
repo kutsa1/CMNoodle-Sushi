@@ -1,3 +1,21 @@
+function convertText(inputText) {
+    const turkishToEnglish = {
+        'ç': 'c', 'Ç': 'C',
+        'ğ': 'g', 'Ğ': 'G',
+        'ı': 'i', 'İ': 'I',
+        'i': 'i', 'İ': 'I',
+        'ö': 'o', 'Ö': 'O',
+        'ş': 's', 'Ş': 'S',
+        'ü': 'u', 'Ü': 'U'
+    };
+
+    const modifiedText = inputText.replace(/[çÇğıİöÖşŞüÜ]/g, char => turkishToEnglish[char] || char)
+                                   .replace(/\s/g, '_')
+                                   .toLowerCase();
+
+    return modifiedText;
+}
+
 fetch('./menu.json')
     .then(response => response.json())
     .then(data => {
@@ -9,8 +27,8 @@ fetch('./menu.json')
             i++
             let menuButton = '';
             if (i === 1)
-                menuButton = `<a href="#"  class="button button--is-active" data-target="${dataKey.toLocaleLowerCase()}Menu">${dataKey}</a>`
-            else menuButton = `<a href="#"  class="button" data-target="${dataKey.toLocaleLowerCase()}Menu">${dataKey}</a>`
+                menuButton = `<a href="#"  class="button button--is-active" data-target="${convertText(dataKey)}Menu">${dataKey}</a>`
+            else menuButton = `<a href="#"  class="button" data-target="${convertText(dataKey)}Menu">${dataKey}</a>`
             buttonsContainer.insertAdjacentHTML('beforeend', menuButton);
         }
         let j = 0;
@@ -19,7 +37,7 @@ fetch('./menu.json')
             subMenu.classList.add('menu')
             if (j === 0)
                 subMenu.classList.add('menu--is-visible')
-            subMenu.setAttribute('id', `${dataKey.toLocaleLowerCase()}Menu`)
+            subMenu.setAttribute('id', `${convertText(dataKey)}Menu`)
             subMenu.setAttribute('data-aos', 'fade-up')
             data[dataKey].forEach(i => {
                 const item = `<div class="item row align-items-center">
