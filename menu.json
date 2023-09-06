@@ -180,7 +180,7 @@
   ],
   "noodle menü": [
     {
-      "name": "TAVUKLU NOODLE(TATLI&nbspve&nbspİÇEÇEK)",
+      "name": "TAVUKLU NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺190",
       "img": ""
@@ -222,7 +222,7 @@
       "img": ""
     },
     {
-      "name": "TON BALIKLI NOODLE(TATLI&nbspve&nbspİÇEÇEK)",
+      "name": "TON BALIKLI NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺200",
       "img": ""
@@ -230,49 +230,49 @@
   ],
   "noodle mix menü": [
     {
-      "name": "TAVUKLU NOODLE(SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "name": "TAVUKLU NOODLE (SEBZELİ&nbspÇİN&nbspBÖREĞİ&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺195",
       "img": ""
     },
     {
-      "name": "ETLİ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "name": "ETLİ NOODLE (SEBZELİ&nbspÇİN&nbspBÖREĞİ&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺220",
       "img": ""
     },
     {
-      "name": "SEBZELİ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "name": "SEBZELİ NOODLE (SEBZELİ&nbspÇİN&nbspBÖREĞİ&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺180",
       "img": ""
     },
     {
-      "name": "KARİDESLİ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "name": "KARİDESLİ NOODLE (SEBZELİ&nbspÇİN&nbspBÖREĞİ&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺220",
       "img": ""
     },
     {
-      "name": "CM NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "name": "CM NOODLE (SEBZELİ&nbspÇİN&nbspBÖREĞİ&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺230",
       "img": ""
     },
     {
-      "name": "VEJETERYAN NOODLE(SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "name": "VEJETERYAN NOODLE (SEBZELİ&nbspÇİN&nbspBÖREĞİ&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺185",
       "img": ""
     },
     {
-      "name": "EGZOTİK NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "name": "EGZOTİK NOODLE (SEBZELİ&nbspÇİN&nbspBÖREĞİ&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺185",
       "img": ""
     },
     {
-      "name": "TON BALIKLI NOODLE(SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
+      "name": "TON BALIKLI NOODLE (SEBZELİ&nbspÇİN&nbspBÖREĞİ&nbspİÇEÇEK)",
       "desc": "",
       "price": "₺200",
       "img": ""
@@ -403,7 +403,7 @@
       "img": ""
    },
     {
-      "name": "CM CALIFORNIA ROLL (6 ADET PİŞMİŞ)",
+      "name": "CM CALIFORNIA ROLL (6&nbspADET&nbspPİŞMİŞ)",
       "desc": "Yengeç, krem peynir, salatalık, avokado, masago, tempura",
       "price": "₺185",
       "img": ""
@@ -783,13 +783,13 @@
       "img": ""
     },
     {
-      "name": "TUNA NİGİRİ ( 1 ADET)",
+      "name": "TUNA NİGİRİ (1 ADET)",
       "desc": "",
       "price": "₺30",
       "img": ""
     },
     {
-      "name": "TUNA NİGİRİ( 3 ADET)",
+      "name": "TUNA NİGİRİ (3 ADET)",
       "desc": "",
       "price": "₺80",
       "img": ""
