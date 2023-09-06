@@ -495,7 +495,7 @@
     {
       "name": "VEJETERYAN ROLL",
       "desc": "Salatalık, avokado, kapya biber, havuç, avokado",
-      "price": "₺175",
+      "price": "₺140",
       "img": ""
     }
   ],
@@ -1019,6 +1019,12 @@
   ],
   "SOĞUK İÇECEKLER" : [
     {
+      "name": "REDBULL",
+      "desc": "",
+      "price": "₺60",
+      "img": ""
+    },
+    {
       "name": "COCA COLA",
       "desc": "",
       "price": "₺36",
@@ -1046,6 +1052,60 @@
       "name": "SPRİTE",
       "desc": "",
       "price": "₺36",
+      "img": ""
+    },
+    {
+      "name": "FANTA",
+      "desc": "",
+      "price": "₺36",
+      "img": ""
+    },
+    {
+      "name": "LİMONATA",
+      "desc": "",
+      "price": "₺36",
+      "img": ""
+    },
+    {
+      "name": "CAPPY VİŞNE",
+      "desc": "",
+      "price": "₺36",
+      "img": ""
+    },
+    {
+      "name": "CAPPY KARIŞIK",
+      "desc": "",
+      "price": "₺36",
+      "img": ""
+    },
+    {
+      "name": "CHURCHİLL",
+      "desc": "",
+      "price": "₺32",
+      "img": ""
+    },
+    {
+      "name": "ELMALI SODA",
+      "desc": "",
+      "price": "₺24",
+      "img": ""
+    },
+    {
+      "name": "LİMONLU SODA",
+      "desc": "",
+      "price": "₺24",
+      "img": ""
+    },
+    {
+      "name": "SADE SODA",
+      "desc": "",
+      "price": "₺20",
+      "img": ""
+    },
+    {
+      "name": "SU",
+      "desc": "",
+      "price": "₺20",
       "img": ""
     }
   ]
