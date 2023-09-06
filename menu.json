@@ -180,100 +180,100 @@
   ],
   "noodle menü": [
     {
-      "name": "TAVUKLU NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
-      "desc": "",
+      "name": "TAVUKLU NOODLE",
+      "desc": "Tatlı ve içecek ile servis edilmektedir.",
       "price": "₺190",
       "img": ""
     },
     {
-      "name": "ETLİ NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
-      "desc": "",
+      "name": "ETLİ NOODLE",
+      "desc": "Tatlı ve içecek ile servis edilmektedir.",
       "price": "₺210",
       "img": ""
     },
     {
-      "name": "SEBZELİ NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
-      "desc": "",
+      "name": "SEBZELİ NOODLE",
+      "desc": "Tatlı ve içecek ile servis edilmektedir.",
       "price": "₺180",
       "img": ""
     },
     {
-      "name": "KARİDESLİ NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
-      "desc": "",
+      "name": "KARİDESLİ NOODLE",
+      "desc": "Tatlı ve içecek ile servis edilmektedir.",
       "price": "₺220",
       "img": ""
     },
     {
-      "name": "CM NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
-      "desc": "",
+      "name": "CM NOODLE",
+      "desc": "Tatlı ve içecek ile servis edilmektedir.",
       "price": "₺230",
       "img": ""
     },
     {
-      "name": "VEJETERYAN NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
-      "desc": "",
+      "name": "VEJETERYAN NOODLE",
+      "desc": "Tatlı ve içecek ile servis edilmektedir.",
       "price": "₺185",
       "img": ""
     },
     {
-      "name": "EGZOTİK NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
-      "desc": "",
+      "name": "EGZOTİK NOODLE",
+      "desc": "Tatlı ve içecek ile servis edilmektedir.",
       "price": "₺185",
       "img": ""
     },
     {
-      "name": "TON BALIKLI NOODLE (TATLI&nbspve&nbspİÇEÇEK)",
-      "desc": "",
+      "name": "TON BALIKLI NOODLE",
+      "desc": "Tatlı ve içecek ile servis edilmektedir.",
       "price": "₺200",
       "img": ""
     }
   ],
   "noodle mix menü": [
     {
-      "name": "TAVUKLU NOODLE (SEBZELİ ÇİN& BÖREĞİ İÇEÇEK)",
-      "desc": "",
+      "name": "TAVUKLU NOODLE",
+      "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
       "price": "₺195",
       "img": ""
     },
     {
-      "name": "ETLİ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
-      "desc": "",
+      "name": "ETLİ NOODLE",
+      "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
       "price": "₺220",
       "img": ""
     },
     {
-      "name": "SEBZELİ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
-      "desc": "",
+      "name": "SEBZELİ NOODLE",
+      "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
       "price": "₺180",
       "img": ""
     },
     {
-      "name": "KARİDESLİ NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
-      "desc": "",
+      "name": "KARİDESLİ NOODLE",
+      "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
       "price": "₺220",
       "img": ""
     },
     {
-      "name": "CM NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
-      "desc": "",
+      "name": "CM NOODLE",
+      "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
       "price": "₺230",
       "img": ""
     },
     {
-      "name": "VEJETERYAN NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
-      "desc": "",
+      "name": "VEJETERYAN NOODLE",
+      "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
       "price": "₺185",
       "img": ""
     },
     {
-      "name": "EGZOTİK NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
-      "desc": "",
+      "name": "EGZOTİK NOODLE",
+      "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
       "price": "₺185",
       "img": ""
     },
     {
-      "name": "TON BALIKLI NOODLE (SEBZELİ ÇİN BÖREĞİ İÇEÇEK)",
-      "desc": "",
+      "name": "TON BALIKLI NOODLE",
+      "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
       "price": "₺200",
       "img": ""
     }
