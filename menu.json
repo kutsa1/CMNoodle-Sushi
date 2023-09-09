@@ -1108,5 +1108,37 @@
       "price": "₺20",
       "img": ""
     }
+  ],
+  "TATLILAR" : [
+    {
+      "name": "Suffle",
+      "desc": "",
+      "price": "₺50",
+      "img": ""
+    },
+    {
+      "name": "Ahududu Soslu Muz Kızartması",
+      "desc": "",
+      "price": "₺50",
+      "img": ""
+    },
+    {
+      "name": "Ballı Muz Kızartması",
+      "desc": "",
+      "price": "₺50",
+      "img": ""
+    },
+    {
+      "name": "Çikolata Soslu Muz Kızartması",
+      "desc": "",
+      "price": "₺50",
+      "img": ""
+    },
+    {
+      "name": "Çikolata Soslu Ananas Kızartması",
+      "desc": "",
+      "price": "₺50",
+      "img": ""
+    }
   ]
 }
