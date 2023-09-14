@@ -309,7 +309,7 @@
     {
       "name": "CALIFORNIA ROLL",
       "desc": "Mayonez, yengeç, salatalık, avokado üzeri tobıko",
-      "price": "₺150",
+      "price": "₺170",
       "img": ""
     },
     {
@@ -351,7 +351,7 @@
     {
       "name": "PHİLEDELPHİA SASEME ROLL",
       "desc": "Somon, krem peynir, salatalık, susam",
-      "price": "₺140",
+      "price": "₺170",
       "img": ""
     },
     {
@@ -374,8 +374,8 @@
     },
     {
       "name": "SASEME CALIFORNIA ROLL",
-      "desc": "Somon, krem peynir, avokado, salatalık, susam",
-      "price": "₺140",
+      "desc": "Yengeç, salatalık, avokado, mayonez, susam",
+      "price": "₺170",
       "img": ""
     },
     {
@@ -385,9 +385,9 @@
       "img": ""
     },
     {
-      "name": "BOSTAN AVOCADO ROLL",
+      "name": "BOSTON AVOCADO ROLL",
       "desc": "Somon, salatalık, labne,avokado, susam kaplı",
-      "price": "₺155",
+      "price": "₺180",
       "img": ""
     },
     {
@@ -417,7 +417,7 @@
     {
       "name": "EBİ CALIFORNIA ROLL",
       "desc": "Karides, avokado, salatalık, krem peynir, masago",
-      "price": "₺155",
+      "price": "₺170",
       "img": ""
     },
     {
@@ -459,7 +459,7 @@
     {
       "name": "SAKE CALIFORNIA ROLL",
       "desc": "Somon, salatalık, avokado, mayonez, masago",
-      "price": "₺160",
+      "price": "₺180",
       "img": ""
     },
     {
