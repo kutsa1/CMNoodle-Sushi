@@ -1015,7 +1015,19 @@
       "desc": "",
       "price": "₺45",
       "img": ""
-    }
+    },
+    {
+      "name": "YEŞİL ÇAY",
+      "desc": "",
+      "price": "₺50",
+      "img": ""
+   },
+   {
+    "name": "FİLTRE KAHVE",
+    "desc": "",
+    "price": "₺50",
+    "img": ""
+ }
   ],
   "SOĞUK İÇECEKLER" : [
     {
