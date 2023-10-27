@@ -119,62 +119,62 @@
     {
       "name": "SEBZELİ NOODLE",
       "desc": "Beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺110",
+      "price": "₺130",
       "img": ""
     },
     {
       "name": "TAVUKLU NOODLE",
       "desc": "Tavuk,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺135",
+      "price": "₺150",
       "img": ""
     },
     {
       "name": "ETLİ NOODLE",
       "desc": "Et,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺150",
+      "price": "₺170",
       "img": ""
     },
     
     {
       "name": "KARİDESLİ NOODLE",
       "desc": "Karides,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺160",
+      "price": "₺185",
       "img": ""
     },
     {
       "name": "EGZOTİK NOODLE",
       "desc": "Beyaz lahana,havuç,kırmızı yeşil biber, brokoli, ananas",
-      "price": "₺120",
+      "price": "₺140",
       "img": ""
     },
     {
       "name": "VEJETERYAN NOODLE",
       "desc": "Beyaz lahana,havuç,kırmızı yeşil biber,brokoli,mantar",
-      "price": "₺120",
+      "price": "₺140",
       "img": ""
     },
     {
       "name": "TON BALIKLI NOODLE",
       "desc": "Tonbalığı,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺145",
+      "price": "₺185",
       "img": ""
     },
     {
       "name": "CM NOODLE",
       "desc": "Et, karides, beyaz lahana, havuç, kırmızı yeşil biber",
-      "price": "₺165",
+      "price": "₺190",
       "img": ""
     },
     {
       "name": "SEBZELİ NOODLE UZERİ GENERAL TSO",
       "desc": "",
-      "price": "₺170",
+      "price": "₺190",
       "img": ""
     },
     {
       "name": "SEBZELİ NOODLE ÜZERİ TATLI EKŞİ SOSLU TAVUK",
       "desc": "",
-      "price": "₺170",
+      "price": "₺190",
       "img": ""
     }
   ],
