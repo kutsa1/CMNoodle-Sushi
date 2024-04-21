@@ -3,7 +3,7 @@
     {
       "name": "ACILI EKŞİLİ ÇİN CORBASI",
       "desc": "",
-      "price": "₺120",
+      "price": "₺140",
       "img": ""
     },
     {
@@ -39,19 +39,19 @@
     {
       "name": "EDAMAME (ACILI)",
       "desc": "",
-      "price": "₺110",
+      "price": "₺125",
       "img": ""
     },
     {
       "name": "EDAMAME (TATLI&nbspACI)",
       "desc": "",
-      "price": "₺110",
+      "price": "₺125",
       "img": ""
     },
     {
       "name": "KİMCHİ",
       "desc": "",
-      "price": "₺100",
+      "price": "₺110",
       "img": ""
     },
     {
@@ -75,19 +75,19 @@
     {
       "name": "KARİDES TOPU (7&nbspADET)",
       "desc": "",
-      "price": "₺140",
+      "price": "₺150",
       "img": ""
     },
     {
       "name": "KARİDES CİPSİ",
       "desc": "",
-      "price": "₺60",
+      "price": "₺80",
       "img": ""
     },
     {
       "name": "DİNAMİT KARİDES",
       "desc": "",
-      "price": "₺190",
+      "price": "₺220",
       "img": ""
     },
     {
@@ -99,39 +99,34 @@
     {
       "name": "PARMAK DİLİM PATATES",
       "desc": "",
-      "price": "₺80",
-      "img": ""
-    },
-    {
-      "name": "SOĞAN HALKASI",
-      "desc": "",
-      "price": "₺80",
-      "img": ""
-    },
-    {
-      "name": "COMBO DELİCİOUS",
-      "desc": "",
-      "price": "₺150",
+      "price": "₺90",
       "img": ""
     }
+   
   ],
   "noodle": [
     {
       "name": "SEBZELİ NOODLE",
       "desc": "Beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺150",
+      "price": "₺160",
+      "img": ""
+    },
+    {
+      "name": "MIRIRLI SADE NOODLE",
+      "desc": "",
+      "price": "₺160",
       "img": ""
     },
     {
       "name": "TAVUKLU NOODLE",
       "desc": "Tavuk,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺180",
+      "price": "₺190",
       "img": ""
     },
     {
       "name": "ETLİ NOODLE",
       "desc": "Et,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺200",
+      "price": "₺210",
       "img": ""
     },
     
@@ -144,13 +139,13 @@
     {
       "name": "EGZOTİK NOODLE",
       "desc": "Beyaz lahana,havuç,kırmızı yeşil biber, brokoli, ananas",
-      "price": "₺170",
+      "price": "₺180",
       "img": ""
     },
     {
       "name": "VEJETERYAN NOODLE",
       "desc": "Beyaz lahana,havuç,kırmızı yeşil biber,brokoli,mantar",
-      "price": "₺170",
+      "price": "₺180",
       "img": ""
     },
     {
@@ -162,19 +157,19 @@
     {
       "name": "CM NOODLE",
       "desc": "Et, karides, beyaz lahana, havuç, kırmızı yeşil biber",
-      "price": "₺250",
+      "price": "₺260",
       "img": ""
     },
     {
       "name": "SEBZELİ NOODLE UZERİ GENERAL TSO",
       "desc": "",
-      "price": "₺230",
+      "price": "₺260",
       "img": ""
     },
     {
       "name": "SEBZELİ NOODLE ÜZERİ TATLI EKŞİ SOSLU TAVUK",
       "desc": "",
-      "price": "₺230",
+      "price": "₺260",
       "img": ""
     }
   ],
@@ -282,7 +277,7 @@
     {
       "name": "TAVUKLU RAMEN",
       "desc": "",
-      "price": "₺180",
+      "price": "₺195",
       "img": ""
     },
     {
@@ -309,7 +304,7 @@
     {
       "name": "CALIFORNIA ROLL",
       "desc": "Mayonez, yengeç, salatalık, avokado üzeri tobıko",
-      "price": "₺200",
+      "price": "₺220",
       "img": ""
     },
     {
@@ -321,7 +316,7 @@
     {
       "name": "İSTANBUL ROLL (PİŞMİŞ)",
       "desc": "Tempura somon krem peynir, salatalık, üzeri avokado",
-      "price": "₺230",
+      "price": "₺240",
       "img": ""
     },
     {
@@ -351,43 +346,43 @@
     {
       "name": "PHİLEDELPHİA SASEME ROLL",
       "desc": "Somon, krem peynir, salatalık, susam",
-      "price": "₺210",
+      "price": "₺220",
       "img": ""
     },
     {
       "name": "PHİLEDELPHİA ROLL",
       "desc": "Krem peynir, salatalık, somon",
-      "price": "₺220",
+      "price": "₺240",
       "img": ""
     },
     {
       "name": "RAİNBOW ROLL",
       "desc": "Krem peynir, yengeç, salatalık, üzeri somon, avokado, levrek, ton balığı",
-      "price": "₺240",
+      "price": "₺260",
       "img": ""
     },
     {
       "name": "ROCK'N ROLL",
       "desc": "Somon, levrek, yeşil soğan, yengeç, krem peynir, salatalık, havyar",
-      "price": "₺240",
+      "price": "₺260",
       "img": ""
     },
     {
       "name": "SASEME CALIFORNIA ROLL",
       "desc": "Yengeç, salatalık, avokado, mayonez, susam",
-      "price": "₺190",
+      "price": "₺200",
       "img": ""
     },
     {
       "name": "CHİCKEN TERİYAKİ ROLL (PİŞMİŞ)",
       "desc": "Tempura tavuk, avokado, salatalık, susam, teriyaki sos, patates",
-      "price": "₺180",
+      "price": "₺200",
       "img": ""
     },
     {
       "name": "BOSTON AVOCADO ROLL",
       "desc": "Somon, salatalık, labne,avokado, susam kaplı",
-      "price": "₺210",
+      "price": "₺240",
       "img": ""
     },
     {
@@ -405,19 +400,19 @@
     {
       "name": "CM CALIFORNIA ROLL (6&nbspADET&nbspPİŞMİŞ)",
       "desc": "Yengeç, krem peynir, salatalık, avokado, masago, tempura",
-      "price": "₺220",
+      "price": "₺240",
       "img": ""
     },
     {
       "name": "CM ROLL",
       "desc": "Somon, surimi, salatalık, avokado, kapya biber, masago",
-      "price": "₺230",
+      "price": "₺240",
       "img": ""
     },
     {
       "name": "EBİ CALIFORNIA ROLL",
       "desc": "Karides, avokado, salatalık, krem peynir, masago",
-      "price": "₺210",
+      "price": "₺220",
       "img": ""
     },
     {
@@ -441,13 +436,13 @@
     {
       "name": "ROSE ROLL",
       "desc": "Pancar soslu pirinç tempura, karides, avokado, salatalık, susam",
-      "price": "₺245",
+      "price": "₺260",
       "img": ""
     },
     {
       "name": "SAKE CALIFORNIA ROLL",
       "desc": "Somon, salatalık, avokado, mayonez, masago",
-      "price": "₺220",
+      "price": "₺230",
       "img": ""
     },
     {
@@ -465,7 +460,7 @@
     {
       "name": "SPİCY SHİRİMP ROLL (PİŞMİŞ)",
       "desc": "Tempura karides, krem peynir, avokado, susam, patates",
-      "price": "₺225",
+      "price": "₺240",
       "img": ""
     },
     {
@@ -477,13 +472,13 @@
     {
       "name": "VEGAN ROLL",
       "desc": "Salatalık, marul, avokado, mango, susam",
-      "price": "₺160",
+      "price": "₺190",
       "img": ""
     },
     {
       "name": "VEJETERYAN ROLL",
       "desc": "Salatalık, avokado, kapya biber, havuç, avokado",
-      "price": "₺170",
+      "price": "₺195",
       "img": ""
     }
   ],
@@ -497,7 +492,7 @@
     {
       "name": "CALIFORNIA MIX MENU TAVUKLU NOODLE",
       "desc": "",
-      "price": "₺400",
+      "price": "₺425",
       "img": ""  
     },
     {
@@ -515,7 +510,7 @@
     {
       "name": "SUSHİ SET (30 ADET)",
       "desc": "Tokyo Roll (8 Adet) + Ebi Tempura (8 Adet) + Hattori Roll (8 Adet) + Spicy Kani Maki (6 Adet)",
-      "price": "₺725",
+      "price": "₺750",
       "img": ""  
     },
     {
@@ -533,13 +528,13 @@
     {
       "name": "VEJETERYAN SET MENÜ (20 ADET)",
       "desc": "Vejetaryen Roll (8 Adet) + Avokado Maki (6 Adet) + Kappa Maki (6 Adet)",
-      "price": "₺425",
+      "price": "₺400",
       "img": ""  
     },
     {
       "name": "CALİFORNİA MENÜ SEBZELİ NOODLE",
       "desc": "",
-      "price": "₺425",
+      "price": "₺400",
       "img": ""  
     },
     {
@@ -589,7 +584,7 @@
     {
       "name": "EBİ TEMPURA MAKİ",
       "desc": "",
-      "price": "₺120",
+      "price": "₺170",
       "img": ""
     },
     {
@@ -607,13 +602,13 @@
     {
       "name": "SAKE AVOKADO MAKİ",
       "desc": "",
-      "price": "₺160",
+      "price": "₺165",
       "img": ""
     },
     {
       "name": "SAKE MAKİ",
       "desc": "",
-      "price": "₺150",
+      "price": "₺160",
       "img": ""
     },
     {
@@ -794,37 +789,12 @@
       "img": ""
     }
   ],
-  "SOTE" : [
-    {
-      "name": "MOGOL USULÜ SOTE (ET)",
-      "desc": "",
-      "price": "₺200",
-      "img": ""
-    },
-    {
-      "name": "OCEAN SOTE (KARİDES)",
-      "desc": "",
-      "price": "₺225",
-      "img": ""
-    },
-    {
-      "name": "TAVUK SOTE",
-      "desc": "",
-      "price": "₺190",
-      "img": ""
-    },
-    {
-      "name": "VEJETERYAN SOTE",
-      "desc": "",
-      "price": "₺160",
-      "img": ""
-    }
-  ],
+  
   "TAVUK" :[
     {
       "name": "BALLI SUSAMLI TAVUK",
       "desc": "",
-      "price": "₺225",
+      "price": "₺235",
       "img": ""
     },
     {
@@ -836,7 +806,7 @@
     {
       "name": "GENERAL TSO",
       "desc": "",
-      "price": "₺225",
+      "price": "₺235",
       "img": ""
     },
     {
@@ -848,13 +818,13 @@
     {
       "name": "TATLI EKŞİ SOSLU TAVUK",
       "desc": "",
-      "price": "₺225",
+      "price": "₺235",
       "img": ""
     },
     {
       "name": "TİRİYAKİ SOSLU TAVUK",
       "desc": "",
-      "price": "₺225",
+      "price": "₺235",
       "img": ""
     }
   ],
