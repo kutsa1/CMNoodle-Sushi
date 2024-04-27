@@ -13,6 +13,18 @@
       "img": ""
     },
     {
+      "name": "GYOZA (3&nbspADET)",
+      "desc": "",
+      "price": "₺160",
+      "img": ""
+    },
+    {
+      "name": "GYOZA (4&nbspADET)",
+      "desc": "",
+      "price": "₺185",
+      "img": ""
+    },
+    {
       "name": "ÇITIR ÇİN MANTISI (3&nbspADET)",
       "desc": "",
       "price": "₺150",
@@ -108,7 +120,34 @@
       "price": "₺90",
       "img": ""
     }
-   
+  ],
+
+  "sushi burger": [
+
+    {
+      "name": "EBİTEN SUSHİ BURGER",
+      "desc": "Karides,salatalık, krem peynir, avokado, çedar peyniri ve yanında patates ile",
+      "price": "₺200",
+      "img": ""
+    },
+    {
+      "name": "SOMON TEMPURA SUSHİ BURGER",
+      "desc": "tempura somon, krem peynir, salatalık, avokado, çedar peyniri ve yanında patates ile",
+      "price": "₺200",
+      "img": ""
+    },
+    { 
+      "name": "CM SPECİAL BİG SUSHİ BURGER",
+      "desc": "Somon, karides, avokado, salatalık, çedar peyniri  ve yanında patates ile",
+      "price": "₺300",
+      "img": ""
+   },
+   { 
+      "name": "VEGAN SUSHİ BURGER",
+      "desc": "avokado, salatalık,kırmızı lahana, havuç ve yanında patates ile",
+      "price": "₺150",
+      "img": ""
+   }
   ],
   "noodle": [
     {
@@ -561,6 +600,39 @@
       "price": "₺460",
       "img": ""  
     }
+  ],
+  "bento menüler": [
+
+    {
+      "name": "BENTO MENÜ 1",
+      "desc": "Sebzeli Noodle + Çıtır Çin Mantısı (2 Adet) + Edamame + İçecek ",
+      "price": "₺300",
+      "img": ""
+    },
+    {
+      "name": "BENTO MENÜ 2",
+      "desc": "Tavuklu Noodle + Sebzeli Çin Böreği (1 adet) + Karides Cipsi + Çıtır Çin Mantısı (2 adet)",
+      "price": "₺300",
+      "img": ""
+    },
+    {
+      "name": "BENTO MENÜ 3",
+      "desc": "Sebzeli Noodle + Muz Kızarması + Çıtır Tavuk + Edamame + içecek",
+      "price": "₺325",
+      "img": ""
+    },
+    {
+      "name": "BENTO MENÜ 4",
+      "desc": "Sebzeli Noodle + Ebi Tempura Roll (4 adet) + California Roll (4 adet) + Çıtır Tavuk + İçecek",
+      "price": "₺380",
+      "img": ""
+    },
+    { 
+      "name": "BENTO MENÜ 5",
+      "desc": "California Roll (4 adet) + Philedelphia Roll (4 adet) + Tatlı Ekşi Soslu Tavuk + Karides Topu (5 adet) + İçecek",
+      "price": "₺395",
+      "img": ""
+   }
   ],
   "maki 6 parça" :[
     {
