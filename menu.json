@@ -148,7 +148,7 @@
     {
       "name": "SEBZELİ NOODLE",
       "desc": "Beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺160",
+      "price": "₺180",
       "img": ""
     },
     {
@@ -160,32 +160,32 @@
     {
       "name": "TAVUKLU NOODLE",
       "desc": "Tavuk,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺190",
+      "price": "₺200",
       "img": ""
     },
     {
       "name": "ETLİ NOODLE",
       "desc": "Et,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺210",
+      "price": "₺220",
       "img": ""
     },
     
     {
       "name": "KARİDESLİ NOODLE",
       "desc": "Karides,beyaz lahana,havuç,kırmızı yeşil biber",
-      "price": "₺240",
+      "price": "₺250",
       "img": ""
     },
     {
       "name": "EGZOTİK NOODLE",
       "desc": "Beyaz lahana,havuç,kırmızı yeşil biber, brokoli, ananas",
-      "price": "₺180",
+      "price": "₺190",
       "img": ""
     },
     {
       "name": "VEJETERYAN NOODLE",
       "desc": "Beyaz lahana,havuç,kırmızı yeşil biber,brokoli,mantar",
-      "price": "₺180",
+      "price": "₺190",
       "img": ""
     },
     {
@@ -203,13 +203,13 @@
     {
       "name": "SEBZELİ NOODLE UZERİ GENERAL TSO",
       "desc": "",
-      "price": "₺260",
+      "price": "₺280",
       "img": ""
     },
     {
       "name": "SEBZELİ NOODLE ÜZERİ TATLI EKŞİ SOSLU TAVUK",
       "desc": "",
-      "price": "₺260",
+      "price": "₺280",
       "img": ""
     }
   ],
@@ -601,31 +601,31 @@
     {
       "name": "BENTO MENÜ 1",
       "desc": "Sebzeli Noodle + Çıtır Çin Mantısı (2 Adet) + Edamame + İçecek ",
-      "price": "₺300",
+      "price": "₺350",
       "img": ""
     },
     {
       "name": "BENTO MENÜ 2",
       "desc": "Tavuklu Noodle + Sebzeli Çin Böreği (1 adet) + Karides Cipsi + Çıtır Çin Mantısı (2 adet)",
-      "price": "₺300",
+      "price": "₺350",
       "img": ""
     },
     {
       "name": "BENTO MENÜ 3",
       "desc": "Sebzeli Noodle + Muz Kızarması + Çıtır Tavuk + Edamame + içecek",
-      "price": "₺325",
+      "price": "₺375",
       "img": ""
     },
     {
       "name": "BENTO MENÜ 4",
       "desc": "Sebzeli Noodle + Ebi Tempura Roll (4 adet) + California Roll (4 adet) + Çıtır Tavuk + İçecek",
-      "price": "₺380",
+      "price": "₺400",
       "img": ""
     },
     { 
       "name": "BENTO MENÜ 5",
       "desc": "California Roll (4 adet) + Philedelphia Roll (4 adet) + Tatlı Ekşi Soslu Tavuk + Karides Topu (5 adet) + İçecek",
-      "price": "₺395",
+      "price": "₺425",
       "img": ""
    }
   ],
