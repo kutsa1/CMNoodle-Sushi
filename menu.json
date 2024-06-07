@@ -813,25 +813,25 @@
   "POKE BOWL": [
     {
       "name": "CALİFORNİA POKE BOWL",
-      "desc": "",
+      "desc": "Yengeç surimi, marine somon, tobiko, sushi pirinci, zencefil turşusu, kırmızı lahana, susam, avokado, edamame, özel soslarz",
       "price": "₺270",
       "img": ""
     },
     {
       "name": "EGZOTİK POKE BOWL",
-      "desc": "",
+      "desc": "Ananas, edamame, somon, yengeç, susam, nori, kırmızı lahana, sushi pirinci, zencefil turşusu, havuç, özel soslar",
       "price": "₺270",
       "img": ""
     },
     {
       "name": "PHİLEDELPHİA POKE BOWL",
-      "desc": "",
+      "desc": "Marine somon, sushi pirinci, kırmızılahana, avokado, zencefil turşusu, krem peynir, havuç, taze soğan, nori, susam, edamame, özel soslar",
       "price": "₺270",
       "img": ""
     },
     {
       "name": "VEGAN POKE BOWL",
-      "desc": "",
+      "desc": "Edamame, sushi pirinci, kırmızılahana, havuç, salatalık, zencefil turşusu, brokoli, avokado, soya sos ile",
       "price": "₺200",
       "img": ""
     }
