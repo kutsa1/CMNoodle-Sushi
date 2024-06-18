@@ -9,31 +9,31 @@
     {
       "name": "SEBZELİ ÇİN BÖREĞİ (2&nbspADET)",
       "desc": "",
-      "price": "₺90",
+      "price": "₺130",
       "img": ""
     },
     {
       "name": "GYOZA (3&nbspADET)",
       "desc": "",
-      "price": "₺160",
+      "price": "₺170",
       "img": ""
     },
     {
       "name": "GYOZA (4&nbspADET)",
       "desc": "",
-      "price": "₺185",
+      "price": "₺190",
       "img": ""
     },
     {
       "name": "ÇITIR ÇİN MANTISI (3&nbspADET)",
       "desc": "",
-      "price": "₺150",
+      "price": "₺170",
       "img": ""
     },
     {
       "name": "ÇITIR ÇİN MANTISI (4&nbspADET)",
       "desc": "",
-      "price": "₺170",
+      "price": "₺190",
       "img": ""
     },
     {
@@ -57,13 +57,13 @@
     {
       "name": "EDAMAME (ACILI)",
       "desc": "",
-      "price": "₺125",
+      "price": "₺140",
       "img": ""
     },
     {
       "name": "EDAMAME (TATLI&nbspACI)",
       "desc": "",
-      "price": "₺125",
+      "price": "₺140",
       "img": ""
     },
     {
@@ -87,7 +87,7 @@
     {
       "name": "KARİDES TEMPURA (6&nbspADET)",
       "desc": "",
-      "price": "₺190",
+      "price": "₺225",
       "img": ""
     },
     {
@@ -267,49 +267,49 @@
     {
       "name": "TAVUKLU NOODLE",
       "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
-      "price": "₺300",
+      "price": "₺350",
       "img": ""
     },
     {
       "name": "ETLİ NOODLE",
       "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
-      "price": "₺320",
+      "price": "₺370",
       "img": ""
     },
     {
       "name": "SEBZELİ NOODLE",
       "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
-      "price": "₺270",
+      "price": "₺300",
       "img": ""
     },
     {
       "name": "KARİDESLİ NOODLE",
       "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
-      "price": "₺350",
+      "price": "₺400",
       "img": ""
     },
     {
       "name": "CM NOODLE",
       "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
-      "price": "₺360",
+      "price": "₺425",
       "img": ""
     },
     {
       "name": "VEJETERYAN NOODLE",
       "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
-      "price": "₺290",
+      "price": "₺320",
       "img": ""
     },
     {
       "name": "EGZOTİK NOODLE",
       "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
-      "price": "₺290",
+      "price": "₺320",
       "img": ""
     },
     {
       "name": "TON BALIKLI NOODLE",
       "desc": "Sebzeli çin böreği ve içecek ile servis edilmektedir.",
-      "price": "₺330",
+      "price": "₺380",
       "img": ""
     }
   ],
@@ -905,13 +905,13 @@
     {
       "name": "ÇAY",
       "desc": "",
-      "price": "₺30",
+      "price": "₺35",
       "img": ""
    },
     {
       "name": "FİNCAN ÇAY",
       "desc": "",
-      "price": "₺40",
+      "price": "₺45",
       "img": ""
     },
     {
@@ -943,37 +943,37 @@
     {
       "name": "COCA COLA",
       "desc": "",
-      "price": "₺45",
+      "price": "₺50",
       "img": ""
     },
     {
       "name": "COCA COLA ZERO",
       "desc": "",
-      "price": "₺45",
+      "price": "₺50",
       "img": ""
     },
     {
       "name": "FUSE TEA ŞEFTALİ",
       "desc": "",
-      "price": "₺45",
+      "price": "₺50",
       "img": ""
     },
     {
       "name": "FUSE TEA LİMON",
       "desc": "",
-      "price": "₺45",
+      "price": "₺50",
       "img": ""
     },
     {
       "name": "SPRİTE",
       "desc": "",
-      "price": "₺45",
+      "price": "₺50",
       "img": ""
     },
     {
       "name": "FANTA",
       "desc": "",
-      "price": "₺45",
+      "price": "₺50",
       "img": ""
     },
     {
@@ -985,17 +985,23 @@
     {
       "name": "CAPPY VİŞNE",
       "desc": "",
-      "price": "₺45",
+      "price": "₺50",
       "img": ""
     },
     {
       "name": "CAPPY KARIŞIK",
       "desc": "",
-      "price": "₺45",
+      "price": "₺50",
       "img": ""
     },
     {
       "name": "CHURCHİLL",
+      "desc": "",
+      "price": "₺50",
+      "img": ""
+    },
+    {
+      "name": "AYRAN",
       "desc": "",
       "price": "₺40",
       "img": ""
@@ -1003,19 +1009,19 @@
     {
       "name": "ELMALI SODA",
       "desc": "",
-      "price": "₺30",
+      "price": "₺35",
       "img": ""
     },
     {
       "name": "LİMONLU SODA",
       "desc": "",
-      "price": "₺30",
+      "price": "₺35",
       "img": ""
     },
     {
       "name": "SADE SODA",
       "desc": "",
-      "price": "₺25",
+      "price": "₺35",
       "img": ""
     },
     {
