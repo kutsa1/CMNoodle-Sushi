@@ -217,49 +217,49 @@
     {
       "name": "TAVUKLU NOODLE",
       "desc": "Tatlı ve içecek ile servis edilmektedir.",
-      "price": "₺300",
+      "price": "₺350",
       "img": ""
     },
     {
       "name": "ETLİ NOODLE",
       "desc": "Tatlı ve içecek ile servis edilmektedir.",
-      "price": "₺320",
+      "price": "₺370",
       "img": ""
     },
     {
       "name": "SEBZELİ NOODLE",
       "desc": "Tatlı ve içecek ile servis edilmektedir.",
-      "price": "₺270",
+      "price": "₺300",
       "img": ""
     },
     {
       "name": "KARİDESLİ NOODLE",
       "desc": "Tatlı ve içecek ile servis edilmektedir.",
-      "price": "₺350",
+      "price": "₺400",
       "img": ""
     },
     {
       "name": "CM NOODLE",
       "desc": "Tatlı ve içecek ile servis edilmektedir.",
-      "price": "₺360",
+      "price": "₺425",
       "img": ""
     },
     {
       "name": "VEJETERYAN NOODLE",
       "desc": "Tatlı ve içecek ile servis edilmektedir.",
-      "price": "₺290",
+      "price": "₺320",
       "img": ""
     },
     {
       "name": "EGZOTİK NOODLE",
       "desc": "Tatlı ve içecek ile servis edilmektedir.",
-      "price": "₺290",
+      "price": "₺320",
       "img": ""
     },
     {
       "name": "TON BALIKLI NOODLE",
       "desc": "Tatlı ve içecek ile servis edilmektedir.",
-      "price": "₺330",
+      "price": "₺380",
       "img": ""
     }
   ],
