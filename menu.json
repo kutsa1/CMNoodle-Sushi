@@ -131,6 +131,24 @@
       "img": ""
     },
     {
+      "name": "EBİ BURGER",
+      "desc": "Haşlama karides, salatalık, krem peynir, avokado, çedar peyniri ve yanında patates ile",
+      "price": "₺200",
+      "img": ""
+    },
+    {
+      "name": "SOMON BURGER",
+      "desc": "Çiğ somon, salatalık, krem peynir, avokado, çedar peyniri ve yanında patates ile",
+      "price": "₺200",
+      "img": ""
+    },
+    {
+      "name": "KANİ BURGER",
+      "desc": "Yengeç, satalık, krem peynir, avokado, çedar peyniri ve yanında patates ile",
+      "price": "₺200",
+      "img": ""
+    },
+    {
       "name": "SOMON TEMPURA SUSHİ BURGER",
       "desc": "tempura somon, krem peynir, salatalık, avokado, çedar peyniri ve yanında patates ile",
       "price": "₺200",
