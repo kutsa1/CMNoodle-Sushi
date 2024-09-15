@@ -335,25 +335,25 @@
     {
       "name": "TAVUKLU RAMEN",
       "desc": "",
-      "price": "₺195",
+      "price": "₺230",
       "img": ""
     },
     {
       "name": "ETLİ RAMEN",
       "desc": "",
-      "price": "₺220",
+      "price": "₺250",
       "img": ""
     },
     {
       "name": "KARİDESLİ RAMEN",
       "desc": "",
-      "price": "₺250",
+      "price": "₺280",
       "img": ""
     },
     {
       "name": "SEBZELİ RAMEN",
       "desc": "",
-      "price": "₺160",
+      "price": "₺200",
       "img": ""
     }
   ],
@@ -544,55 +544,55 @@
     {
       "name": "ALL STAR MENÜ (30 ADET)",
       "desc": "Ebi Ten Crispy Roll + California + Ebi Tempura Maki + Somon Tempura Roll",
-      "price": "₺750",
+      "price": "₺800",
       "img": ""  
     },
     {
       "name": "CALIFORNIA MIX MENU TAVUKLU NOODLE",
       "desc": "",
-      "price": "₺425",
+      "price": "₺450",
       "img": ""  
     },
     {
       "name": "CLASSİC SET MENU (28 ADET)",
       "desc": "Sesame Roll + Philadelphia + Kani Maki + Sake Maki",
-      "price": "₺750",
+      "price": "₺800",
       "img": ""  
     },
     {
       "name": "SUSHİ MİX (20 ADET)",
       "desc": "California Roll (8 adet) + Sake Maki (6 adet) + Sake Nigiri (2 adet) + Avokado Nigiri (2 adet) + Çıtır Çin Mantısı (2 Adet)",
-      "price": "₺525",
+      "price": "₺600",
       "img": ""  
     },
     {
       "name": "SUSHİ SET (30 ADET)",
       "desc": "Tokyo Roll (8 Adet) + Ebi Tempura (8 Adet) + Hattori Roll (8 Adet) + Spicy Kani Maki (6 Adet)",
-      "price": "₺750",
+      "price": "₺800",
       "img": ""  
     },
     {
       "name": "VEGAN SET MENÜ (20 ADET)",
       "desc": "Vegan Roll + Kappa Maki + Avokado Maki",
-      "price": "₺420",
+      "price": "₺460",
       "img": ""  
     },
     {
       "name": "VEJETERYAN SET MENÜ 2",
       "desc": "Normal Boy Vejetaryen Noodle + Vejetaryen Roll + Kutu İçecek",
-      "price": "₺400",
+      "price": "₺460",
       "img": ""  
     },
     {
       "name": "VEJETERYAN SET MENÜ (20 ADET)",
       "desc": "Vejetaryen Roll (8 Adet) + Avokado Maki (6 Adet) + Kappa Maki (6 Adet)",
-      "price": "₺400",
+      "price": "₺460",
       "img": ""  
     },
     {
       "name": "CALİFORNİA MENÜ SEBZELİ NOODLE",
       "desc": "",
-      "price": "₺400",
+      "price": "₺430",
       "img": ""  
     },
     {
@@ -610,7 +610,7 @@
     {
       "name": "SUSHİ SET MENÜ (20 ADET)",
       "desc": "California Roll (8 Adet) + Sake Maki (6 Adet) + Kappa Maki (6 Adet)",
-      "price": "₺460",
+      "price": "₺495",
       "img": ""  
     }
   ],
@@ -935,7 +935,7 @@
     {
       "name": "TÜRK KAHVESİ",
       "desc": "",
-      "price": "₺60",
+      "price": "₺80",
       "img": ""
     },
     {
@@ -997,7 +997,7 @@
     {
       "name": "LİMONATA",
       "desc": "",
-      "price": "₺40",
+      "price": "₺60",
       "img": ""
     },
     {
