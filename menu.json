@@ -392,7 +392,7 @@
     {
       "name": "DRAGON ROLL",
       "desc": "Yengeç, krempeynir, salatalık, avokado, yılan balığı",
-      "price": "₺280",
+      "price": "₺400",
       "img": ""
     },
     {
@@ -711,7 +711,7 @@
     {
       "name": "UNAGİ MAKİ",
       "desc": "",
-      "price": "₺210",
+      "price": "₺295",
       "img": ""
     },
     {
@@ -738,7 +738,7 @@
     { 
       "name": "UNAGİ SASHIMI",
       "desc": "",
-      "price": "₺400",
+      "price": "₺900",
       "img": ""
    }
   ],
@@ -818,13 +818,13 @@
     {
       "name": "UNAGİ NİGİRİ (1 ADET)",
       "desc": "",
-      "price": "₺110",
+      "price": "₺150",
       "img": ""
     },
     {
       "name": "UNAGİ NİGİRİ (3 ADET)",
       "desc": "",
-      "price": "₺280",
+      "price": "₺400",
       "img": ""
     }
   ],
