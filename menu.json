@@ -3,91 +3,91 @@
     {
       "name": "ACILI EKŞİLİ ÇİN CORBASI",
       "desc": "",
-      "price": "₺140",
+      "price": "₺175",
       "img": ""
     },
     {
       "name": "SEBZELİ ÇİN BÖREĞİ (2&nbspADET)",
       "desc": "",
-      "price": "₺130",
+      "price": "₺150",
       "img": ""
     },
     {
       "name": "GYOZA (3&nbspADET)",
       "desc": "",
-      "price": "₺170",
+      "price": "₺190",
       "img": ""
     },
     {
       "name": "GYOZA (4&nbspADET)",
       "desc": "",
-      "price": "₺190",
+      "price": "₺220",
       "img": ""
     },
     {
       "name": "ÇITIR ÇİN MANTISI (3&nbspADET)",
       "desc": "",
-      "price": "₺170",
+      "price": "₺190",
       "img": ""
     },
     {
       "name": "ÇITIR ÇİN MANTISI (4&nbspADET)",
       "desc": "",
-      "price": "₺190",
+      "price": "₺220",
       "img": ""
     },
     {
       "name": "BUHARDA ÇİN MANTISI (3&nbspADET)",
       "desc": "",
-      "price": "₺150",
+      "price": "₺190",
       "img": ""
     },
     {
       "name": "BUHARDA ÇİN MANTISI (4&nbspADET)",
       "desc": "",
-      "price": "₺170",
+      "price": "₺220",
       "img": ""
     },
     {
       "name": "MISIR TEMPURA",
       "desc": "",
-      "price": "₺160",
+      "price": "₺200",
       "img": ""
     },
     {
       "name": "EDAMAME (ACILI)",
       "desc": "",
-      "price": "₺140",
+      "price": "₺160",
       "img": ""
     },
     {
       "name": "EDAMAME (TATLI&nbspACI)",
       "desc": "",
-      "price": "₺140",
+      "price": "₺160",
       "img": ""
     },
     {
       "name": "KİMCHİ",
       "desc": "",
-      "price": "₺110",
+      "price": "₺125",
       "img": ""
     },
     {
       "name": "KARİDES SHOT (1&nbspADET)",
       "desc": "",
-      "price": "₺50",
+      "price": "₺60",
       "img": ""
     },
     {
       "name": "KARİDES SHOT (3&nbspADET)",
       "desc": "",
-      "price": "₺135",
+      "price": "₺160",
       "img": ""
     },
     {
       "name": "KARİDES TEMPURA (6&nbspADET)",
       "desc": "",
-      "price": "₺225",
+      "price": "₺250",
       "img": ""
     },
     {
@@ -99,13 +99,13 @@
     {
       "name": "KARİDES CİPSİ",
       "desc": "",
-      "price": "₺80",
+      "price": "₺100",
       "img": ""
     },
     {
       "name": "DİNAMİT KARİDES",
       "desc": "",
-      "price": "₺220",
+      "price": "₺250",
       "img": ""
     },
     {
@@ -117,7 +117,7 @@
     {
       "name": "PARMAK DİLİM PATATES",
       "desc": "",
-      "price": "₺90",
+      "price": "₺125",
       "img": ""
     }
   ],
@@ -544,7 +544,7 @@
     {
       "name": "ALL STAR MENÜ (30 ADET)",
       "desc": "Ebi Ten Crispy Roll + California + Ebi Tempura Maki + Somon Tempura Roll",
-      "price": "₺800",
+      "price": "₺900",
       "img": ""  
     },
     {
@@ -556,19 +556,19 @@
     {
       "name": "CLASSİC SET MENU (28 ADET)",
       "desc": "Sesame Roll + Philadelphia + Kani Maki + Sake Maki",
-      "price": "₺800",
+      "price": "₺900",
       "img": ""  
     },
     {
       "name": "SUSHİ MİX (20 ADET)",
       "desc": "California Roll (8 adet) + Sake Maki (6 adet) + Sake Nigiri (2 adet) + Avokado Nigiri (2 adet) + Çıtır Çin Mantısı (2 Adet)",
-      "price": "₺600",
+      "price": "₺700",
       "img": ""  
     },
     {
       "name": "SUSHİ SET (30 ADET)",
       "desc": "Tokyo Roll (8 Adet) + Ebi Tempura (8 Adet) + Hattori Roll (8 Adet) + Spicy Kani Maki (6 Adet)",
-      "price": "₺800",
+      "price": "₺900",
       "img": ""  
     },
     {
@@ -604,13 +604,13 @@
     {
       "name": "MAKİ SET MENÜ (24 ADET)",
       "desc": "Saki Maki (6 Adet) + Kani Maki (6 Adet) + Kappa Maki (6 Adet) + Avokado Maki (6 Adet)",
-      "price": "₺500",
+      "price": "₺600",
       "img": ""  
     },
     {
       "name": "SUSHİ SET MENÜ (20 ADET)",
       "desc": "California Roll (8 Adet) + Sake Maki (6 Adet) + Kappa Maki (6 Adet)",
-      "price": "₺495",
+      "price": "₺550",
       "img": ""  
     }
   ],

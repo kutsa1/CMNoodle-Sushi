@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE nmaprun>
-<?xml-stylesheet href="file:///opt/homebrew/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
-<!-- Nmap 7.94 scan initiated Sat May 11 19:42:54 2024 as: nmap -sn -oA penguen 10.34.214.0/23 -->
-<nmaprun scanner="nmap" args="nmap -sn -oA penguen 10.34.214.0/23" start="1715445774" startstr="Sat May 11 19:42:54 2024" version="7.94" xmloutputversion="1.05">
